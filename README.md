@@ -1,62 +1,33 @@
-# 👋 Hi there, I'm Amrut Savadatti!  
+<img src="jack.jpg" alt="Samurai Jack" width="100%"/>
 
-🌟 **Passionate Software Developer | Problem Solver | Mentor**  
+# hey, i'm amrut
 
-Welcome to my GitHub! I'm currently pursuing my Master's in Computer Science at Worcester Polytechnic Institute (WPI) and have a rich background in developing scalable software solutions that solve real-world problems.  
-
----
-
-## 🚀 About Me  
-
-- 🔧 **What I Do:**  
-  I specialize in building backend systems, API integrations, and scalable web applications. Previously, I contributed to developing tools for analyzing and optimizing ad campaigns at [Media.net](https://www.media.net), and created solutions like:  
-  - A **centralized data processing pipeline** to integrate data from various sources.  
-  - An **API proxy service** with credential updates, caching, and cost optimization.  
-  - Tools to evaluate, run, and analyze ad campaigns, including compliance and ROAS assessment.  
-
-- 💡 **What I Love:**  
-  - Solving real-world problems with code.  
-  - Helping others learn, grow, and explore the world of technology.  
-  - Dreaming big—eventually contributing to scalable, architecturally sound solutions at a leading tech company.  
+cs grad @ WPI. i build backend systems, ship AI tools, and occasionally implement distributed consensus algorithms for fun.
 
 ---
 
-## 🛠️ Skills  
+<img src="todo.png" width="100%"/>
 
-- **Languages:** Python, Java, C++, Dart, JavaScript, PHP.  
-- **Frameworks:** Django, Spring Boot, ReactJS, Node.js.  
-- **Databases:** MongoDB, MySQL, Microsoft SQL, Firebase.  
-- **Tools & Tech:** Elasticsearch, Redis, Docker, AWS (S3, EC2), Ansible, Jenkins.  
+**right now i'm building:**
+- **[EduOrch](./eduorch_hld.html)** — on-prem agentic system for educators to manage Canvas LMS via natural language CLI. FERPA-compliant, Git-backed, Llama 3.1 70B on WPI's ARC cluster
+- **[TAARS](https://github.com/amrutsavadatti/TAARS)** — AI portfolio chatbot with a custom RAPTOR retrieval system. no vector DBs, just fast and cheap
+- **[caveman-compress](https://github.com/amrutsavadatti/caveman)** — Claude skill that compresses AI memory files ~45% without losing meaning
+- **OpenClaw** — multi-agent orchestrator routing tasks across Claude + OpenAI with quality loops and Discord/Telegram updates
 
----
-
-## 🌟 Notable Projects  
-
-- **Pharmacy Logistics App**: Developed an Android app for Bhaktivedanta Hospital to track and verify medicine deliveries using QR codes, reducing errors by 40%.  
-- **Ad Campaign Analyzer**: Built tools to evaluate ad campaign performance, compliance, and ROAS for enhanced decision-making.  
-- **Alumni Student Connect Platform**: A responsive web app with Elasticsearch for efficient data indexing and features like sentiment analysis and user verification.  
+**and before that:** 3 years at Media.net shipping Kafka APIs, data pipelines across 30+ integrations, and a backend serving 400+ publisher sites
 
 ---
 
-## 📚 What I'm Learning  
-
-- Advanced backend system design and architecture.  
-- ReactJS for dynamic front-end development.  
-- Cloud technologies, with a focus on AWS.  
+**also built:** [RAFT consensus from scratch](https://github.com/amrutsavadatti/RAFT-consensus) · [Beecology platform](https://beecology.wpi.edu/react_webapp/) · Custom MCP server (FastAPI + OAuth + Google Calendar)
 
 ---
 
-## 🎯 Goals  
+```
+  ⚡ certified: Claude Code in Action · Claude 101 · Intro to Agent Skills · AWS GenAI
+```
 
-- Contribute to open-source projects that create meaningful impact.  
-- Transition my love for mentoring into creating resources for new developers.  
-- Build scalable, innovative solutions for a global audience at a leading tech company.  
+**stack:** Python · Java · Claude API · Kafka · FastAPI · Spring Boot · React · Docker · AWS
 
 ---
 
-## 📫 Let's Connect!  
-
-- LinkedIn: [Amrut Savadatti](https://in.linkedin.com/in/amrut-savadatti-277069183)  
-- Email: amrutsavadatticareers@gmail.com  
-
-Thanks for stopping by! Let's build something amazing together. 🌟  
+[LinkedIn](https://in.linkedin.com/in/amrut-savadatti-277069183) · amrutsavadatticareers@gmail.com
