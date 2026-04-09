@@ -1,11 +1,8 @@
-# amrut
+<img src="jack.jpg" alt="Samurai Jack" width="100%"/>
 
+# amrut
 cs @ WPI  
 backend systems · distributed systems · agentic AI
-
----
-
-<img src="jack.jpg" alt="Samurai Jack" width="100%"/>
 
 *i build backend systems and full-stack applications, ship AI tools, and occasionally implement distributed consensus algorithms for both fun and money ><*
 
