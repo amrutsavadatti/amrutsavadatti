@@ -1,20 +1,29 @@
-<img src="jack.jpg" alt="Samurai Jack" width="100%"/>
+# amrut
 
-# hey, i'm amrut
-
-cs grad @ WPI. i build backend systems, ship AI tools, and occasionally implement distributed consensus algorithms for fun.
+cs @ WPI  
+backend systems · distributed systems · agentic AI
 
 ---
 
-<img src="todo.png" width="100%"/>
+<img src="jack.jpg" alt="Samurai Jack" width="100%"/>
 
-**right now i'm building:**
-- **[EduOrch](./eduorch_hld.html)** — on-prem agentic system for educators to manage Canvas LMS via natural language CLI. FERPA-compliant, Git-backed, Llama 3.1 70B on WPI's ARC cluster
+*i build backend systems and full-stack applications, ship AI tools, and occasionally implement distributed consensus algorithms for both fun and money ><*
+
+---
+
+<img src="todo.png" width="100%"/> 
+
+---
+
+**right now i'm workin on:**
+- **[EduOrch](https://amrutsavadatti.github.io/portfolio/eduorch_hld.html)** — on-prem agentic system for educators to manage Canvas LMS via natural language CLI. FERPA-compliant, Git-backed, Llama 3.1 70B on WPI's ARC cluster
 - **[TAARS](https://github.com/amrutsavadatti/TAARS)** — AI portfolio chatbot with a custom RAPTOR retrieval system. no vector DBs, just fast and cheap
-- **[caveman-compress](https://github.com/amrutsavadatti/caveman)** — Claude skill that compresses AI memory files ~45% without losing meaning
+
+**recently worked on:**
+- **[caveman-compress](https://github.com/JuliusBrussee/caveman)** — Claude skill that compresses AI memory files ~45% without losing meaning
 - **OpenClaw** — multi-agent orchestrator routing tasks across Claude + OpenAI with quality loops and Discord/Telegram updates
 
-**and before that:** 3 years at Media.net shipping Kafka APIs, data pipelines across 30+ integrations, and a backend serving 400+ publisher sites
+**and before that:** 3 years at [Media.net](https://www.media.net/) shipping Kafka APIs, data pipelines across 30+ integrations, and a backend serving 400+ publisher sites
 
 ---
 
@@ -30,4 +39,6 @@ cs grad @ WPI. i build backend systems, ship AI tools, and occasionally implemen
 
 ---
 
-[LinkedIn](https://in.linkedin.com/in/amrut-savadatti-277069183) · amrutsavadatticareers@gmail.com
+[LinkedIn](https://in.linkedin.com/in/dev-amrut-savadatti) · amrutsavadatticareers@gmail.com
+
+<img src="grass.png" width="100%"/>
